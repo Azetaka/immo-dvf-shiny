@@ -12,3 +12,4 @@ rsconnect/
 
 # macOS
 .DS_Store
+data/interim/
