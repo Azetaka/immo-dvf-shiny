@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Données brutes DVF (volumineuses, retéléchargeables)
+data/raw/
+
+# Déploiement shinyapps.io
+rsconnect/
+
+# macOS
+.DS_Store
